@@ -1,3 +1,3 @@
 # CSIT314
-Cinema Ticket Booking system
-----------------------------
+# Cinema Ticket Booking system
+# ----------------------------
